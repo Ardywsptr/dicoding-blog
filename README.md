@@ -19,10 +19,10 @@
 
 ## Requirements
 
-Aplikasi ini membutuhkan beberapa kebutuhan sehingga menjadi resposive dari berbagai ukuran layar mulai dari mobile, tablet sampai dengan dekstop. beberapa kebutuhan antara lain :
+Aplikasi ini membutuhkan beberapa kebutuhan sehingga menjadi responsive dari berbagai ukuran layar mulai dari mobile, tablet sampai dengan dekstop. beberapa kebutuhan antara lain :
 
 - Mengatur Viewport, Penggunaan Relative Unit, Ukuran Elemen.
-- Menggunakan Media Query, Breakpoint, Grid Layout Module, Grid Track, Grid Lines, Gutters, Fraction Unit dan RRRepeat Notation
+- Menggunakan Media Query, Breakpoint, Grid Layout Module, Grid Track, Grid Lines, Gutters, Fraction Unit dan Repeat Notation
 - Menggunakan Optimalisasi Teks dan Off Canvas Menu
 
 <br clear="both">
@@ -49,9 +49,9 @@ Web app ini dibuat dengan menggunakan JavaScript *bundler* **Webpack** dengan be
 
 1. Clone repositori
   
-    `git clone https://github.com/Ardywsptr/Bookshelf_Submission-Belajar-Membuat-Front-End-Web-Untuk-Pemula/.git`
+    `git clone https://github.com/Ardywsptr/dicoding-blog/.git`
 
-    `cd Bookshelf_Submission-Belajar-Membuat-Front-End-Web-Untuk-Pemula`
+    `cd dicoding-blog`
 
 2. Install NPM
    
